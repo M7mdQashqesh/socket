@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\M7md Qash\\source\\repos\\Socket\\Client\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{29E4F090-4125-485D-A05D-75CD1D468C66}|Client\\Client.vcxproj|C:\\Users\\M7md Qash\\source\\repos\\Socket\\Client\\Client\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{29E4F090-4125-485D-A05D-75CD1D468C66}|Client\\Client.vcxproj|solutionrelative:Client\\Client.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Client.cpp",
+              "DocumentMoniker": "C:\\Users\\M7md Qash\\source\\repos\\Socket\\Client\\Client\\Client.cpp",
+              "RelativeDocumentMoniker": "Client\\Client.cpp",
+              "ToolTip": "C:\\Users\\M7md Qash\\source\\repos\\Socket\\Client\\Client\\Client.cpp",
+              "RelativeToolTip": "Client\\Client.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEoAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-11T14:28:00.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
